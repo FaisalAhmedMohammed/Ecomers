@@ -1,7 +1,9 @@
 public class Example{
     public static void main(String[] args){
       String str= "ashok";
+      
       String dept="hr";
+    
       boolean isSaved=true;
     }
 }
