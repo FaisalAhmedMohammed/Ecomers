@@ -1,6 +1,7 @@
 public class Example{
     public static void main(String[] args){
-      String str= "ashok";
-       double price =5000.0;
+    String str= "ashok";
+    double price =5000.0;
+    boolean isSaved=false;
     }
 }
