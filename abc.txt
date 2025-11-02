@@ -8,7 +8,9 @@ System.out.println("Hi");
       String dept="hr";
   
       boolean isSaved=false;
-      m2();
+
+m1();
+
 
     }
 
