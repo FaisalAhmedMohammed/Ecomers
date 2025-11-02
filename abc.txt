@@ -1,5 +1,5 @@
-public class Sample{
+public class Example{
     public static void main(String[] args){
-	double d = 5000.0;
+      String str= "ashok";
     }
 }
