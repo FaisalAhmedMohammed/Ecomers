@@ -1,1 +1,13 @@
-System.out.prilntln("java");
+
+public class Example{
+    public static void main(String[] args){
+System.out.println("Hi");
+
+      String str= "ashok";
+      
+      String dept="hr";
+  
+      boolean isSaved=false;
+
+    }
+}
