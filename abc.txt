@@ -1,3 +1,4 @@
+
 public class Example{
     public static void main(String[] args){
 System.out.println("Hi");
@@ -9,7 +10,8 @@ System.out.println("Hi");
       boolean isSaved=false;
 
     }
-    static void m2(){
-	System.out.println("inside m2() method");
-    }
+
+static void m1(){
+    System.out.println(" inside m1() method");
+}
 }
